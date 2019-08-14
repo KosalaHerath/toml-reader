@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# JAVA TOML Reader
+# TOML Reader for JAVA
 
 Welcome to the TOML configuration file reader sample.
 
@@ -25,6 +25,6 @@ This will show the needed details in the configuration file. This is implemented
 
 ### Example Run
 
-As an example following command will show example TOML file's data.(example TOML file located at "<TOML-READER-HOME>/resources"
+As an example following command will show example TOML file's data. (example TOML file located at "<TOML-READER-HOME>/resources"
 
 `$ java -jar toml-reader-0.1.0.jar --file university-details.config`
