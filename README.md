@@ -25,6 +25,6 @@ This will show the needed details in the configuration file. This is implemented
 
 ### Example Run
 
-As an example following command will show example TOML file's data. (example TOML file located at "<TOML-READER-HOME>/resources"
+As an example following command will show example TOML file's data. (example TOML file is located at `<TOML-READER-HOME>/resources`)
 
 `$ java -jar toml-reader-0.1.0.jar --file university-details.config`
