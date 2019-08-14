@@ -1,3 +1,6 @@
+  [![GitHub (pre-)release](https://img.shields.io/github/release/KosalaHerath/toml-reader/all.svg)](https://github.com/KosalaHerath/toml-reader/releases)
+  [![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/KosalaHerath/toml-reader.svg)](https://github.com/KosalaHerath/toml-reader/releases)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/ballerina-lang.svg)](https://github.com/ballerina-platform/ballerina-lang/commits/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # TOML Reader for JAVA
